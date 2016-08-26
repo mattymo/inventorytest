@@ -1,0 +1,5 @@
+---
+#hyperkube_image_tag: "v1.4.0-alpha.2-1467-g6bc62_53"
+#hyperkube_image_repo: "artifactory.ng.mirantis.net:5002/hyperkube-amd64"
+upstream_dns_servers: [172.18.80.136, 172.18.16.10]
+use_hyperkube_cni: true
